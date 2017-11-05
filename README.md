@@ -3,8 +3,9 @@
 This project is to generate weather data for testing purpose. More interesting, it will also visualize the generated data into a map.
  
 There are two parts of this project:
-1. Generate weather data for certain cities for a country (Java App)
-    <br>**A Scala version** is also available in https://github.com/minmindu/weather-data-scala
+1. Generate weather data for certain cities for a country (Java/Scala App)
+    <br>**A Scala version** is available in https://github.com/minmindu/weather-data-scala
+    <br>**A Java version** is available in https://github.com/minmindu/weather-data
 2. Visualise the weather data result set in a map for data analysis (JavaScript)
 
 
